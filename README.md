@@ -15,4 +15,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 -----------------------------------------------------------------------------------------------------------------
 
-![Lorem Picsum Gorsel](https://imageupload.app/i/f09e5bc207cd8499c5a7)
+![Lorem Picsum Gorsel](https://picsum.photos/200/300
